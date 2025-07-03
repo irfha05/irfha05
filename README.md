@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/168650132?v=4" width="150" style="border-radius: 50%;" alt="Irfha Profile"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Irfha</h1>
 <p align="center">
   <i>She/Her • Web Developer • Creative Learner</i><br>
@@ -57,10 +53,8 @@ Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
 > Berikut lagu favorit aku di Spotify 👇
 
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4DByV1wF6y6LqwhWI9xgnd?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC?si=5X0FlcWpQcKe9iA3cvEF0A" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
 </p>
-
-_(Ganti link Spotify di atas dengan lagu favoritmu ya!)_
 
 ---
 
@@ -75,7 +69,7 @@ _(Ganti link Spotify di atas dengan lagu favoritmu ya!)_
 
 ## 🤝 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/@irfha__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
+[![Instagram](https://img.shields.io/badge/@itsnaqis.ar__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsnaqis.ar)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628xxxxxxxxxx)
 
 ---
