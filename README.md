@@ -60,14 +60,13 @@ Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irfha05&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfha05&theme=tokyonight" width="400" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/@itsnaqis.ar__E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsnaqis.ar)  
+[![Instagram](https://img.shields.io/badge/@itsnaqis.ar_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsnaqis.ar)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628xxxxxxxxxx)
 
 ---
