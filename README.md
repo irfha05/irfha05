@@ -18,15 +18,15 @@
 ## 💼 Projects I'm Proud Of
 
 ### 🌐 [Personal Web](https://github.com/irfha05/personal-web)
-Sebuah website pribadi dengan:
-- Manajemen artikel via admin dashboard
-- Statistik pengunjung harian/mingguan
-- Komentar dinamis per artikel
-- Integrasi Google Maps
-- Desain responsive dengan Tailwind CSS
+Website pribadi dengan:
+- Admin dashboard
+- Statistik pengunjung (grafik & jumlah)
+- Komentar dinamis
+- Peta Google Maps interaktif
+- Responsive Tailwind CSS UI
 
 ### 🖼️ [Portofolio](https://github.com/irfha05/portofolio)
-Sebuah portofolio simpel namun elegan, cocok untuk menampilkan karya dan pengalaman.
+Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
 
 ---
 
@@ -38,6 +38,29 @@ Sebuah portofolio simpel namun elegan, cocok untuk menampilkan karya dan pengala
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+---
+
+## 🎯 My Goals
+
+- 🌱 Terus belajar backend & API development
+- 🌐 Membangun sistem pemesanan jasa online
+- 📊 Tambah fitur chart & statistik real-time
+- 🚀 Deploy ke hosting publik / portofolio online
+- 🎓 Jadi developer profesional setelah kuliah
+
+---
+
+## 🎵 Favorite Music Right Now
+
+> Musik bikin ngoding makin semangat! 🎧  
+> Berikut lagu favorit aku di Spotify 👇
+
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4DByV1wF6y6LqwhWI9xgnd?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
+</p>
+
+_(Ganti link Spotify di atas dengan lagu favoritmu ya!)_
 
 ---
 
@@ -54,11 +77,6 @@ Sebuah portofolio simpel namun elegan, cocok untuk menampilkan karya dan pengala
 
 [![Instagram](https://img.shields.io/badge/@irfha__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628xxxxxxxxxx)
-
----
-
-## ☁️ Fun Fact
-> Aku suka eksplorasi hal baru di dunia web, coding sambil denger musik 🎧 dan bikin project yang bikin bangga diri sendiri ✨
 
 ---
 
