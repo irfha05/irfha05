@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Irfha</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Irfha</h1>
 <p align="center">
   <i>She/Her • Web Developer • Creative Learner</i><br>
   <b>"To be better"</b>
