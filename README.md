@@ -43,11 +43,12 @@ Hobbies: Listening Music
 <br>
 <br>
 
-<p align="right"><a href = "https://music.youtube.com/watch?v=PRgKQl61U0E?si=04-YC8RZMDudWMX8"><img src = "https://i.ytimg.com/vi/PRgKQl61U0E/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>ヨルシカ - へび </b></p>
+<p align="right"><a href = "https://music.youtube.com/watch?v=PRgKQl61U0E?si=04-YC8RZMDudWMX8"><img src = "https://i.ytimg.com/vi/PRgKQl61U0E/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>
+Salma Salsabil – Rumah</b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=766qmHTc2ro&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/766qmHTc2ro/maxresdefault.webp" width="170" align="right"></a><b><br><br>Minami 美波 – Ame wo Matsu, アメヲマツ、</b></p>
+<p align="left"><a href = "https://music.youtube.com/watch?v=-mwsPoerFWU?si=zMPr27unL7ouEHB0"><img  src ="https://i.ytimg.com/vi_webp/-mwsPoerFWU/maxresdefault.webp" width="170" align="right"></a><b><br><br>Pamungkas - Monolog</b></p>
 
 <br>
 <br>
