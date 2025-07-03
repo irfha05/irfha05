@@ -15,6 +15,53 @@
 
 ---
 
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+
+```sh
+root@irfha: ~/my_readme (main⚡)$ neofetch
+```
+
+<img align="left" src="https://avatars.githubusercontent.com/u/193067540?s=400&u=b80a435d70eab1bbd6000cc79a263b9678551d08&v=4" width="130px"/>
+
+```csharp
+My Profile
+-------------------------------
+Host: irfha.com
+Username: Irfha Najla Qisti A.R
+WhoamI: Normal People.
+Languages: JavaScript, HTML, PHP
+Loves: Suga.
+Pronouns: He-Him.
+Location: Indonesian, Jawa Barat.
+FavouriteSong: Prom Queen - Beach Bunny.
+Hobbies: Listening Music
+```
+
+<div>
+<br>
+<br>
+<br>
+<br>
+
+<p align="right"><a href = "https://music.youtube.com/watch?v=sf0QFJTvOLM&si=joHbXf4EG5-93Y0P"><img src = "https://i.ytimg.com/vi/sf0QFJTvOLM/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>ヨルシカ - へび </b></p>
+<br>
+<br>
+
+<p align="left"><a href = "https://music.youtube.com/watch?v=766qmHTc2ro&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/766qmHTc2ro/maxresdefault.webp" width="170" align="right"></a><b><br><br>Minami 美波 – Ame wo Matsu, アメヲマツ、</b></p>
+
+<br>
+<br>
+
+<p align="right"><a href="https://music.youtube.com/watch?v=fE9trKOuT3Q&si=BkSxh-TtURQsoAfx"><img src="https://i.ytimg.com/vi_webp/fE9trKOuT3Q/maxresdefault.webp" width="170" align="left"></a><b><br>LONGMAN - spiral</b></p>
+<br>
+<br>
+
+<p align="left"><a href = "https://music.youtube.com/watch?v=LU3f8ZGfd5g&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/LU3f8ZGfd5g/maxresdefault.webp" width="170" align="right"></a><b><br><br>TOGENASHI TOGEARI "Bleeding Hearts"</b></p>
+
+<br>
+</div>
+<br>
+
 ## 💼 Projects I'm Proud Of
 
 ### 🌐 [Personal Web](https://github.com/irfha05/personal-web)
