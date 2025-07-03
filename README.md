@@ -52,7 +52,9 @@ Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
 > Musik bikin ngoding makin semangat! 🎧  
 > Berikut lagu favorit aku di Spotify 👇
 
-[![Spotify Song](https://img.shields.io/badge/Now%20Playing-Mahadewi%20-%20Padi-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1ED760)](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC)
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
 ---
 
