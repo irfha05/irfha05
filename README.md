@@ -115,6 +115,14 @@ Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
   <img src="https://github-readme-stats.vercel.app/api?username=irfha05&show_icons=true&theme=tokyonight" width="400" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/IqbalzzX"><img src="https://github-readme-streak-stats.herokuapp.com?user=IqbalzzX&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IqbalzzX"><img src="https://github-profile-trophy.vercel.app/?username=IqbalzzX&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
+
 ---
 
 ## 🤝 Let's Connect
