@@ -48,7 +48,7 @@ Salma Salsabil – Rumah</b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=-mwsPoerFWU?si=zMPr27unL7ouEHB0"><img  src ="https://i.ytimg.com/vi_webp/-mwsPoerFWU/maxresdefault.webp" width="170" align="right"></a><b><br><br>Pamungkas - Monolog</b></p>
+<p align="left"><a href = "https://music.youtube.com/watch?v=-mwsPoerFWU?si=zMPr27unL7ouEHB0"><img  src ="https://img.youtube.com/vi/-mwsPoerFWU/sddefault.jpg" width="170" align="right"></a><b><br><br>Pamungkas - Monolog</b></p>
 
 <br>
 <br>
@@ -83,6 +83,7 @@ Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -119,7 +120,7 @@ Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
 ## 🤝 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/@itsnaqis.ar_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsnaqis.ar)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628xxxxxxxxxx)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289524108860)
 
 ---
 
